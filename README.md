@@ -1,2 +1,3 @@
 # Azercell-task
-little task
+decryption of google chrome passwords with python.
+
